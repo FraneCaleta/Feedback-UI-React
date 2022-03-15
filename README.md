@@ -16,4 +16,4 @@ npm install
 npm run dev
 ```
 
-This will run JSON-server on port :5000 and React on port :3000
+This will run JSON-server on port :5000 and React Application on port :3000
