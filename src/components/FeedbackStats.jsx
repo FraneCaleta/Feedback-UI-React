@@ -8,7 +8,6 @@ function FeedbackStats() {
   const average = Math.round(
     feedback.reduce((acc, { rating }) => acc + rating, 0) / feedback.length
   );
-
   return (
     <div className="feedback-stats">
       <h4>{feedback.length} Reviews</h4>
