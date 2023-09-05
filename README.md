@@ -1,5 +1,5 @@
 # Feedback UI React Application
-React application for leaving a feedback (rating and comment) on some product or service. It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
+[React](https://react.dev/) application for leaving a feedback (rating and comment) on some product or service. It allows users to add, update and delete feedback. It uses a mock REST api with [json-server](https://github.com/typicode/json-server).
 
 ---
 
